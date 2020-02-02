@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Feb 02 22:15:39 CST 2020","Sun Feb 02 22:15:41 CST 2020","2318","TestCases.TestClassroom","test_01_join_classroom","TestJoinClassroom","","","test_01_success_join_classroom",""
+"passed","Sun Feb 02 22:16:36 CST 2020","Sun Feb 02 22:16:45 CST 2020","9757","TestCases.TestHomeWork","test_msg_homework","TestMsgHomework","","","test_msg_homework_success",""
+"passed","Sun Feb 02 22:17:25 CST 2020","Sun Feb 02 22:17:32 CST 2020","6395","TestCases.TestPrivateMsgMode","test_private_msg","TestPrivateMsg","","","test_private_msg_success",""
+"passed","Sun Feb 02 22:15:57 CST 2020","Sun Feb 02 22:16:03 CST 2020","5807","TestCases.TestClassroom","test_02_enter_classroom","TestEnterClassroom","","","test_enter_classroom",""
+"passed","Sun Feb 02 22:15:41 CST 2020","Sun Feb 02 22:15:43 CST 2020","1590","TestCases.TestClassroom","test_01_join_classroom","TestJoinClassroom","","","test_03_exit_class_success",""
+"passed","Sun Feb 02 22:16:59 CST 2020","Sun Feb 02 22:17:14 CST 2020","14317","TestCases.TestHomeWork","test_upload_homework","TestUploadHomework","","","test_success_upload_homework",""
+"passed","Sun Feb 02 22:16:17 CST 2020","Sun Feb 02 22:16:20 CST 2020","3112","TestCases.TestHomeWork","test_check_homework_states","TestCheckHomeworkStates","","","test_check_homework_states_success",""

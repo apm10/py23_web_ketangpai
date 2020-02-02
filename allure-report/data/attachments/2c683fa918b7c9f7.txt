@@ -1,0 +1,87 @@
+INFO     cases:basepage.py:58 首页，等待登录按钮可见等待('xpath', '//a[@class="login"]')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:15:52.570865，结束时间：2020-02-02 22:15:52.590811，等待时长：0.019946
+INFO     cases:basepage.py:58 首页，点击登录按钮：等待('xpath', '//a[@class="login"]')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:15:52.590811，结束时间：2020-02-02 22:15:52.602779，等待时长：0.011968
+INFO     cases:basepage.py:92 开始查找('xpath', '//a[@class="login"]')元素。
+INFO     cases:basepage.py:104 起始时间：2020-02-02 22:15:52.602779，结束时间：2020-02-02 22:15:52.609760，等待时长：0.006981
+INFO     cases:basepage.py:114 首页，点击登录按钮：,点击('xpath', '//a[@class="login"]')元素。
+INFO     cases:basepage.py:58 登录页面，等待登录按钮可见等待('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:15:53.012683，结束时间：2020-02-02 22:15:53.034624，等待时长：0.021941
+INFO     cases:basepage.py:58 登录页面，输入用户名：等待('xpath', '//input[@name="account"]')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:15:53.034624，结束时间：2020-02-02 22:15:53.052577，等待时长：0.017953
+INFO     cases:basepage.py:92 开始查找('xpath', '//input[@name="account"]')元素。
+INFO     cases:basepage.py:104 起始时间：2020-02-02 22:15:53.053573，结束时间：2020-02-02 22:15:53.059558，等待时长：0.005985
+INFO     cases:basepage.py:150 登录页面，输入用户名：在('xpath', '//input[@name="account"]')输入文本值：15210428535。
+INFO     cases:basepage.py:58 登录页面，输入密码：等待('xpath', '//input[@name="pass"]')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:15:53.104438，结束时间：2020-02-02 22:15:53.122390，等待时长：0.017952
+INFO     cases:basepage.py:92 开始查找('xpath', '//input[@name="pass"]')元素。
+INFO     cases:basepage.py:104 起始时间：2020-02-02 22:15:53.123387，结束时间：2020-02-02 22:15:53.129371，等待时长：0.005984
+INFO     cases:basepage.py:150 登录页面，输入密码：在('xpath', '//input[@name="pass"]')输入文本值：m1010r11。
+INFO     cases:basepage.py:58 登录页面，点击登录按钮：等待('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:15:53.163281，结束时间：2020-02-02 22:15:53.175248，等待时长：0.011967
+INFO     cases:basepage.py:92 开始查找('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素。
+INFO     cases:basepage.py:104 起始时间：2020-02-02 22:15:53.175248，结束时间：2020-02-02 22:15:53.181232，等待时长：0.005984
+INFO     cases:basepage.py:114 登录页面，点击登录按钮：,点击('xpath', '//div[@class="padding-cont pt-login"]//a[@class="btn-btn"]')元素。
+INFO     cases:basepage.py:58 课堂页面，等待公告提醒出现：等待('xpath', '//a[@class="close"]')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:15:53.271026，结束时间：2020-02-02 22:15:54.240401，等待时长：0.969375
+INFO     cases:basepage.py:58 课堂页面，点击公告提醒关闭按钮：等待('xpath', '//a[@class="close"]')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:15:54.240401，结束时间：2020-02-02 22:15:54.253367，等待时长：0.012966
+INFO     cases:basepage.py:92 开始查找('xpath', '//a[@class="close"]')元素。
+INFO     cases:basepage.py:104 起始时间：2020-02-02 22:15:54.253367，结束时间：2020-02-02 22:15:54.259350，等待时长：0.005983
+INFO     cases:basepage.py:114 课堂页面，点击公告提醒关闭按钮：,点击('xpath', '//a[@class="close"]')元素。
+INFO     cases:basepage.py:58 课堂页面，点击加入课程按钮：等待('xpath', '//div[@class="ktcon1l fr"]')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:15:56.346770，结束时间：2020-02-02 22:15:56.365720，等待时长：0.01895
+INFO     cases:basepage.py:92 开始查找('xpath', '//div[@class="ktcon1l fr"]')元素。
+INFO     cases:basepage.py:104 起始时间：2020-02-02 22:15:56.366757，结束时间：2020-02-02 22:15:56.372729，等待时长：0.005972
+INFO     cases:basepage.py:114 课堂页面，点击加入课程按钮：,点击('xpath', '//div[@class="ktcon1l fr"]')元素。
+INFO     cases:basepage.py:58 课堂页面，等待加入按钮可见：等待('xpath', '//li[@class="cjli2"]/a')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:15:56.425561，结束时间：2020-02-02 22:15:56.450493，等待时长：0.024932
+INFO     cases:basepage.py:58 课堂页面,输入加课验证码：等待('xpath', '//div[@class="chuangjiankccon"]//input')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:15:56.450493，结束时间：2020-02-02 22:15:56.471437，等待时长：0.020944
+INFO     cases:basepage.py:92 开始查找('xpath', '//div[@class="chuangjiankccon"]//input')元素。
+INFO     cases:basepage.py:104 起始时间：2020-02-02 22:15:56.471437，结束时间：2020-02-02 22:15:56.477419，等待时长：0.005982
+INFO     cases:basepage.py:150 课堂页面,输入加课验证码：在('xpath', '//div[@class="chuangjiankccon"]//input')输入文本值：P69UVV。
+INFO     cases:basepage.py:58 课堂页面，点击加入按钮：等待('xpath', '//li[@class="cjli2"]/a')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:15:57.519633，结束时间：2020-02-02 22:15:57.534595，等待时长：0.014962
+INFO     cases:basepage.py:92 开始查找('xpath', '//li[@class="cjli2"]/a')元素。
+INFO     cases:basepage.py:104 起始时间：2020-02-02 22:15:57.534595，结束时间：2020-02-02 22:15:57.540578，等待时长：0.005983
+INFO     cases:basepage.py:114 课堂页面，点击加入按钮：,点击('xpath', '//li[@class="cjli2"]/a')元素。
+INFO     cases:test_02_enter_classroom.py:25 ----------进入班级用例开始执行----------
+INFO     cases:basepage.py:58 课堂页面，等待web实战元素可见：等待('xpath', '//a[@title="python-web项目实战- 考核项目"]')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:15:57.619368，结束时间：2020-02-02 22:15:58.149949，等待时长：0.530581
+INFO     cases:basepage.py:58 课堂页面，点击web实战元素：等待('xpath', '//a[@title="python-web项目实战- 考核项目"]')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:15:58.149949，结束时间：2020-02-02 22:15:58.163911，等待时长：0.013962
+INFO     cases:basepage.py:92 开始查找('xpath', '//a[@title="python-web项目实战- 考核项目"]')元素。
+INFO     cases:basepage.py:104 起始时间：2020-02-02 22:15:58.163911，结束时间：2020-02-02 22:15:58.171891，等待时长：0.00798
+INFO     cases:basepage.py:114 课堂页面，点击web实战元素：,点击('xpath', '//a[@title="python-web项目实战- 考核项目"]')元素。
+INFO     cases:basepage.py:45 web项目页面，查看web实现元素存在：: 检测元素 ('tag name', 'h1') 存在且可见于页面。
+INFO     cases:basepage.py:53  10秒内元素可见。
+INFO     cases:test_02_enter_classroom.py:36 ----------进入班级用例执行成功----------
+INFO     cases:basepage.py:58 课堂页面，等待更多元素可见：等待('xpath', '//dl[@data-id="MDAwMDAwMDAwMLR2vd6Gz8mw"]//span[text()="更多"]')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:16:03.738361，结束时间：2020-02-02 22:16:04.270349，等待时长：0.531988
+INFO     cases:basepage.py:58 课堂页面，点击更多元素等待('xpath', '//dl[@data-id="MDAwMDAwMDAwMLR2vd6Gz8mw"]//span[text()="更多"]')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:16:04.270349，结束时间：2020-02-02 22:16:04.284312，等待时长：0.013963
+INFO     cases:basepage.py:92 开始查找('xpath', '//dl[@data-id="MDAwMDAwMDAwMLR2vd6Gz8mw"]//span[text()="更多"]')元素。
+INFO     cases:basepage.py:104 起始时间：2020-02-02 22:16:04.284312，结束时间：2020-02-02 22:16:04.290295，等待时长：0.005983
+INFO     cases:basepage.py:114 课堂页面，点击更多元素,点击('xpath', '//dl[@data-id="MDAwMDAwMDAwMLR2vd6Gz8mw"]//span[text()="更多"]')元素。
+INFO     cases:basepage.py:58 课堂页面，等待退课按钮可见等待('xpath', '//dl[@data-id="MDAwMDAwMDAwMLR2vd6Gz8mw"]//a[text()="退课"]')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:16:04.345149，结束时间：2020-02-02 22:16:04.364099，等待时长：0.01895
+INFO     cases:basepage.py:58 课堂页面，点击退课按钮等待('xpath', '//dl[@data-id="MDAwMDAwMDAwMLR2vd6Gz8mw"]//a[text()="退课"]')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:16:04.365096，结束时间：2020-02-02 22:16:04.378063，等待时长：0.012967
+INFO     cases:basepage.py:92 开始查找('xpath', '//dl[@data-id="MDAwMDAwMDAwMLR2vd6Gz8mw"]//a[text()="退课"]')元素。
+INFO     cases:basepage.py:104 起始时间：2020-02-02 22:16:04.378063，结束时间：2020-02-02 22:16:04.385042，等待时长：0.006979
+INFO     cases:basepage.py:114 课堂页面，点击退课按钮,点击('xpath', '//dl[@data-id="MDAwMDAwMDAwMLR2vd6Gz8mw"]//a[text()="退课"]')元素。
+INFO     cases:basepage.py:58 课堂页面，等待退课确认按钮出现：等待('xpath', '//li[@class = "dli2"]//a')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:16:04.479825，结束时间：2020-02-02 22:16:04.500733，等待时长：0.020908
+INFO     cases:basepage.py:58 课堂页面，输入退课确认密码：等待('xpath', '//input[@type="password"]')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:16:04.500733，结束时间：2020-02-02 22:16:04.518685，等待时长：0.017952
+INFO     cases:basepage.py:92 开始查找('xpath', '//input[@type="password"]')元素。
+INFO     cases:basepage.py:104 起始时间：2020-02-02 22:16:04.518685，结束时间：2020-02-02 22:16:04.524669，等待时长：0.005984
+INFO     cases:basepage.py:150 课堂页面，输入退课确认密码：在('xpath', '//input[@type="password"]')输入文本值：m1010r11。
+INFO     cases:basepage.py:58 课堂页面，点击确认退课按钮等待('xpath', '//li[@class = "dli2"]//a')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:16:05.557437，结束时间：2020-02-02 22:16:05.569370，等待时长：0.011933
+INFO     cases:basepage.py:92 开始查找('xpath', '//li[@class = "dli2"]//a')元素。
+INFO     cases:basepage.py:104 起始时间：2020-02-02 22:16:05.569370，结束时间：2020-02-02 22:16:05.575355，等待时长：0.005985
+INFO     cases:basepage.py:114 课堂页面，点击确认退课按钮,点击('xpath', '//li[@class = "dli2"]//a')元素。
+INFO     cases:basepage.py:58 课堂页面，等待show_tip元素出现等待('xpath', '//div[@id="show-tip"]//span')元素可见。
+INFO     cases:basepage.py:71 起始时间：2020-02-02 22:16:05.650153，结束时间：2020-02-02 22:16:06.176746，等待时长：0.526593

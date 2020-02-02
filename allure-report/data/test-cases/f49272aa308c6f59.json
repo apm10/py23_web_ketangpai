@@ -1,0 +1,227 @@
+{
+  "uid" : "f49272aa308c6f59",
+  "name" : "test_check_homework_states_success",
+  "fullName" : "TestCases.TestHomeWork.test_check_homework_states.TestCheckHomeworkStates#test_check_homework_states_success",
+  "historyId" : "2dbc264cb41b22cca1f452e0cdb9ab7d",
+  "time" : {
+    "start" : 1580652977121,
+    "stop" : 1580652980233,
+    "duration" : 3112
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "initialize",
+    "time" : {
+      "start" : 1580652932913,
+      "stop" : 1580652932966,
+      "duration" : 53
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1580652973863,
+      "stop" : 1580652977120,
+      "duration" : 3257
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "init_driver",
+    "time" : {
+      "start" : 1580652968258,
+      "stop" : 1580652973863,
+      "duration" : 5605
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "42a263ab260f5a4b",
+      "name" : "log",
+      "source" : "42a263ab260f5a4b.txt",
+      "type" : "text/plain",
+      "size" : 12426
+    }, {
+      "uid" : "5752ab0e7a6f4ab5",
+      "name" : "stderr",
+      "source" : "5752ab0e7a6f4ab5.txt",
+      "type" : "text/plain",
+      "size" : 15059
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "initialize::0",
+    "time" : {
+      "start" : 1580653054198,
+      "stop" : 1580653054198,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "setup::0",
+    "time" : {
+      "start" : 1580652980233,
+      "stop" : 1580652982967,
+      "duration" : 2734
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "init_driver::0",
+    "time" : {
+      "start" : 1580652982967,
+      "stop" : 1580652985045,
+      "duration" : 2078
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases.TestHomeWork"
+  }, {
+    "name" : "suite",
+    "value" : "test_check_homework_states"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCheckHomeworkStates"
+  }, {
+    "name" : "host",
+    "value" : "TR-PC"
+  }, {
+    "name" : "thread",
+    "value" : "24308-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.TestHomeWork.test_check_homework_states"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "286d0d78a41c17fc",
+        "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/10/allure/#testresult/286d0d78a41c17fc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580652799048,
+          "stop" : 1580652802717,
+          "duration" : 3669
+        }
+      }, {
+        "uid" : "8125c72c0f1f427",
+        "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/9/allure/#testresult/8125c72c0f1f427",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580651573361,
+          "stop" : 1580651580239,
+          "duration" : 6878
+        }
+      }, {
+        "uid" : "7a957096d0ba504b",
+        "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/6/allure/#testresult/7a957096d0ba504b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580640606199,
+          "stop" : 1580640608537,
+          "duration" : 2338
+        }
+      }, {
+        "uid" : "130f2811c55f693e",
+        "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/5/allure/#testresult/130f2811c55f693e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580639618571,
+          "stop" : 1580639620913,
+          "duration" : 2342
+        }
+      }, {
+        "uid" : "c5c6f6884c210525",
+        "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/4/allure/#testresult/c5c6f6884c210525",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580639370400,
+          "stop" : 1580639372751,
+          "duration" : 2351
+        }
+      } ]
+    },
+    "tags" : [ "smoke" ]
+  },
+  "source" : "f49272aa308c6f59.json",
+  "parameterValues" : [ ]
+}

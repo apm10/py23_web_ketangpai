@@ -1,0 +1,198 @@
+{
+  "uid" : "a3042857c932acb8",
+  "name" : "test_03_exit_class_success",
+  "fullName" : "TestCases.TestClassroom.test_01_join_classroom.TestJoinClassroom#test_03_exit_class_success",
+  "historyId" : "e65089591570436dc6de26fa58c911b1",
+  "time" : {
+    "start" : 1580652941453,
+    "stop" : 1580652943043,
+    "duration" : 1590
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "initialize",
+    "time" : {
+      "start" : 1580652932913,
+      "stop" : 1580652932966,
+      "duration" : 53
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "init_driver",
+    "time" : {
+      "start" : 1580652932967,
+      "stop" : 1580652939128,
+      "duration" : 6161
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ffcc35d2dc20b243",
+      "name" : "log",
+      "source" : "ffcc35d2dc20b243.txt",
+      "type" : "text/plain",
+      "size" : 5088
+    }, {
+      "uid" : "f9f8b0ee18414228",
+      "name" : "stderr",
+      "source" : "f9f8b0ee18414228.txt",
+      "type" : "text/plain",
+      "size" : 6153
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "initialize::0",
+    "time" : {
+      "start" : 1580653054198,
+      "stop" : 1580653054198,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "init_driver::0",
+    "time" : {
+      "start" : 1580652943043,
+      "stop" : 1580652945130,
+      "duration" : 2087
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases.TestClassroom"
+  }, {
+    "name" : "suite",
+    "value" : "test_01_join_classroom"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestJoinClassroom"
+  }, {
+    "name" : "host",
+    "value" : "TR-PC"
+  }, {
+    "name" : "thread",
+    "value" : "24308-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.TestClassroom.test_01_join_classroom"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "e8ec8bb9c1652907",
+        "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/10/allure/#testresult/e8ec8bb9c1652907",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580652766910,
+          "stop" : 1580652768900,
+          "duration" : 1990
+        }
+      }, {
+        "uid" : "45e1adfb855d9b32",
+        "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/9/allure/#testresult/45e1adfb855d9b32",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580651539215,
+          "stop" : 1580651541304,
+          "duration" : 2089
+        }
+      }, {
+        "uid" : "3f273a84eec39b38",
+        "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/6/allure/#testresult/3f273a84eec39b38",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+        "time" : {
+          "start" : 1580640555675,
+          "stop" : 1580640576280,
+          "duration" : 20605
+        }
+      }, {
+        "uid" : "f99ec9ed36b72f13",
+        "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/5/allure/#testresult/f99ec9ed36b72f13",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580639585327,
+          "stop" : 1580639587130,
+          "duration" : 1803
+        }
+      }, {
+        "uid" : "20127b2427ea8f95",
+        "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/4/allure/#testresult/20127b2427ea8f95",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580639339132,
+          "stop" : 1580639340599,
+          "duration" : 1467
+        }
+      } ]
+    },
+    "tags" : [ "smoke" ]
+  },
+  "source" : "a3042857c932acb8.json",
+  "parameterValues" : [ ]
+}

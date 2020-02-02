@@ -1,0 +1,71 @@
+[ {
+  "uid" : "b977fe13638f6635",
+  "name" : "test_01_success_join_classroom",
+  "time" : {
+    "start" : 1580652939132,
+    "stop" : 1580652941450,
+    "duration" : 2318
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a15db1115f61d56",
+  "name" : "test_msg_homework_success",
+  "time" : {
+    "start" : 1580652996111,
+    "stop" : 1580653005868,
+    "duration" : 9757
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d609fc7490dcce72",
+  "name" : "test_private_msg_success",
+  "time" : {
+    "start" : 1580653045707,
+    "stop" : 1580653052102,
+    "duration" : 6395
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd93812c19113a10",
+  "name" : "test_enter_classroom",
+  "time" : {
+    "start" : 1580652957618,
+    "stop" : 1580652963425,
+    "duration" : 5807
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3042857c932acb8",
+  "name" : "test_03_exit_class_success",
+  "time" : {
+    "start" : 1580652941453,
+    "stop" : 1580652943043,
+    "duration" : 1590
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12ae56fe2dc1137d",
+  "name" : "test_success_upload_homework",
+  "time" : {
+    "start" : 1580653019767,
+    "stop" : 1580653034084,
+    "duration" : 14317
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f49272aa308c6f59",
+  "name" : "test_check_homework_states_success",
+  "time" : {
+    "start" : 1580652977121,
+    "stop" : 1580652980233,
+    "duration" : 3112
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

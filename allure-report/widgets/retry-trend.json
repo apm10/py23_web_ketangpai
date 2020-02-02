@@ -1,0 +1,81 @@
+[ {
+  "buildOrder" : 11,
+  "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/11/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 7,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/10/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 11,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 11,
+    "retry" : 1
+  }
+}, {
+  "buildOrder" : 8,
+  "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/8/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 0,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/7/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 1,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/6/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 7,
+    "retry" : 11
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 7,
+    "retry" : 1
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 11,
+    "retry" : 64
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 11,
+    "retry" : 49
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/1/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 11,
+    "retry" : 18
+  }
+} ]

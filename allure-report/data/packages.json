@@ -1,0 +1,132 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "TestCases",
+    "children" : [ {
+      "name" : "TestClassroom",
+      "children" : [ {
+        "name" : "test_01_join_classroom",
+        "children" : [ {
+          "name" : "test_01_success_join_classroom",
+          "uid" : "b977fe13638f6635",
+          "parentUid" : "6bb65faa23a2d7cb25e71e5c07671a1e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1580652939132,
+            "stop" : 1580652941450,
+            "duration" : 2318
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_03_exit_class_success",
+          "uid" : "a3042857c932acb8",
+          "parentUid" : "6bb65faa23a2d7cb25e71e5c07671a1e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1580652941453,
+            "stop" : 1580652943043,
+            "duration" : 1590
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6bb65faa23a2d7cb25e71e5c07671a1e"
+      }, {
+        "name" : "test_02_enter_classroom",
+        "children" : [ {
+          "name" : "test_enter_classroom",
+          "uid" : "bd93812c19113a10",
+          "parentUid" : "1eb05b3831122b0c91da814d63a94e44",
+          "status" : "passed",
+          "time" : {
+            "start" : 1580652957618,
+            "stop" : 1580652963425,
+            "duration" : 5807
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1eb05b3831122b0c91da814d63a94e44"
+      } ],
+      "uid" : "dae21bd6cffa2198b3362f224753c826"
+    }, {
+      "name" : "TestHomeWork",
+      "children" : [ {
+        "name" : "test_check_homework_states",
+        "children" : [ {
+          "name" : "test_check_homework_states_success",
+          "uid" : "f49272aa308c6f59",
+          "parentUid" : "114ec4e76eaea3c927a2c77da9fdf764",
+          "status" : "passed",
+          "time" : {
+            "start" : 1580652977121,
+            "stop" : 1580652980233,
+            "duration" : 3112
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "114ec4e76eaea3c927a2c77da9fdf764"
+      }, {
+        "name" : "test_msg_homework",
+        "children" : [ {
+          "name" : "test_msg_homework_success",
+          "uid" : "5a15db1115f61d56",
+          "parentUid" : "6e208fd40f9688dc8c759cc3277bd43d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1580652996111,
+            "stop" : 1580653005868,
+            "duration" : 9757
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6e208fd40f9688dc8c759cc3277bd43d"
+      }, {
+        "name" : "test_upload_homework",
+        "children" : [ {
+          "name" : "test_success_upload_homework",
+          "uid" : "12ae56fe2dc1137d",
+          "parentUid" : "c89608705567dd85f9a11b796643ad7d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1580653019767,
+            "stop" : 1580653034084,
+            "duration" : 14317
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c89608705567dd85f9a11b796643ad7d"
+      } ],
+      "uid" : "42af39189b3e7cc64224d7a623e0d7a2"
+    }, {
+      "name" : "TestPrivateMsgMode.test_private_msg",
+      "children" : [ {
+        "name" : "test_private_msg_success",
+        "uid" : "d609fc7490dcce72",
+        "parentUid" : "3bdc31130643fa42aa386cda873e8235",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580653045707,
+          "stop" : 1580653052102,
+          "duration" : 6395
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "TestPrivateMsgMode.test_private_msg"
+    } ],
+    "uid" : "1dd5dae00c58193b69825e57e00d160e"
+  } ]
+}

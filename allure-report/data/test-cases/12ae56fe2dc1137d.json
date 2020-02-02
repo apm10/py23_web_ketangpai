@@ -1,0 +1,257 @@
+{
+  "uid" : "12ae56fe2dc1137d",
+  "name" : "test_success_upload_homework",
+  "fullName" : "TestCases.TestHomeWork.test_upload_homework.TestUploadHomework#test_success_upload_homework",
+  "historyId" : "c20c0cadb5101cfd5108f7597135ae79",
+  "time" : {
+    "start" : 1580653019767,
+    "stop" : 1580653034084,
+    "duration" : 14317
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "initialize",
+    "time" : {
+      "start" : 1580652932913,
+      "stop" : 1580652932966,
+      "duration" : 53
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "setup_enter_classroom",
+    "time" : {
+      "start" : 1580653019086,
+      "stop" : 1580653019766,
+      "duration" : 680
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "init_driver",
+    "time" : {
+      "start" : 1580653010345,
+      "stop" : 1580653015813,
+      "duration" : 5468
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "setup",
+    "time" : {
+      "start" : 1580653015813,
+      "stop" : 1580653019085,
+      "duration" : 3272
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e447abdabe4b7912",
+      "name" : "log",
+      "source" : "e447abdabe4b7912.txt",
+      "type" : "text/plain",
+      "size" : 18040
+    }, {
+      "uid" : "3d7a55794a5d2263",
+      "name" : "stderr",
+      "source" : "3d7a55794a5d2263.txt",
+      "type" : "text/plain",
+      "size" : 21821
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "initialize::0",
+    "time" : {
+      "start" : 1580653054198,
+      "stop" : 1580653054198,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "setup_enter_classroom::0",
+    "time" : {
+      "start" : 1580653034084,
+      "stop" : 1580653034084,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "init_driver::0",
+    "time" : {
+      "start" : 1580653036964,
+      "stop" : 1580653039059,
+      "duration" : 2095
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "setup::0",
+    "time" : {
+      "start" : 1580653034085,
+      "stop" : 1580653036963,
+      "duration" : 2878
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases.TestHomeWork"
+  }, {
+    "name" : "suite",
+    "value" : "test_upload_homework"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestUploadHomework"
+  }, {
+    "name" : "host",
+    "value" : "TR-PC"
+  }, {
+    "name" : "thread",
+    "value" : "24308-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.TestHomeWork.test_upload_homework"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "cdac5a202c03c367",
+        "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/10/allure/#testresult/cdac5a202c03c367",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580652840316,
+          "stop" : 1580652854652,
+          "duration" : 14336
+        }
+      }, {
+        "uid" : "c26044c6fb3b78e2",
+        "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/9/allure/#testresult/c26044c6fb3b78e2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580651618816,
+          "stop" : 1580651632929,
+          "duration" : 14113
+        }
+      }, {
+        "uid" : "b1707fcae89153bd",
+        "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/6/allure/#testresult/b1707fcae89153bd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580640644930,
+          "stop" : 1580640657494,
+          "duration" : 12564
+        }
+      }, {
+        "uid" : "ceea2e1c8bba25a7",
+        "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/5/allure/#testresult/ceea2e1c8bba25a7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580639658738,
+          "stop" : 1580639670628,
+          "duration" : 11890
+        }
+      }, {
+        "uid" : "683e54ecf7364462",
+        "reportUrl" : "http://localhost:8080/job/py23_web_ketangpai/4/allure/#testresult/683e54ecf7364462",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580639409181,
+          "stop" : 1580639420981,
+          "duration" : 11800
+        }
+      } ]
+    },
+    "tags" : [ "smoke" ]
+  },
+  "source" : "12ae56fe2dc1137d.json",
+  "parameterValues" : [ ]
+}
